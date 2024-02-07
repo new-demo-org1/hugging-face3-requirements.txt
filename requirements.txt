@@ -1,0 +1,5 @@
+contourpy==1.0.6
+xlm-roberta-large==1.2
+xlnet-base-cased==0
+xlnet-large-cased==0
+007J/smile==0
