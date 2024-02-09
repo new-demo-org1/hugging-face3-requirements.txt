@@ -3,8 +3,8 @@ xlm-roberta-large==1.2
 xlnet-base-cased==0
 xlnet-large-cased==0
 007J/smile==0
-0307061430/xuangou=0
-0x7194633/keyt5-base=0
-0x7194633/keyt5-large=0
-0xDEADBEA7/DialoGPT-small-rick=0
-123123/ghfk=0
+0307061430/xuangou==0
+0x7194633/keyt5-base==0
+0x7194633/keyt5-large==0
+0xDEADBEA7/DialoGPT-small-rick==0
+123123/ghfk==0
